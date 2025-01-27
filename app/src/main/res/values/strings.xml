@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My wallet</string>
+    <string name="logo">Мои бонусные карты</string>
+    <string name="addCardButtom">+</string>
+</resources>
